@@ -118,7 +118,7 @@ export default function Home() {
         </div>
         <div className="space-y-2">
           <p className="font-bold">CONTACT</p>
-          <p>Phone: +46 (0)704 59 02 99</p>
+          <p>Phone: +46 704 59 02 99</p>
           <p>
             Email:{" "}
             <a href="mailto:info@keemchi.se" className="hover:underline">
