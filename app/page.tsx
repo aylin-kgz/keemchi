@@ -12,7 +12,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between font-poppins">
       <div></div>
       <nav className="w-full flex items-center justify-between lg:flex p-4">
-        <Image src="/logo.png" alt="Logo" width={40} height={40} />
+        <Image src="/Logo.png" alt="Logo" width={40} height={40} />
         <div className="">
           <ul
             className={`md:flex ${
