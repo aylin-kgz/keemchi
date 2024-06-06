@@ -75,7 +75,7 @@ export default function Home() {
           onClick={toggleModal}
           className={`hamburger-button md:hidden text-slate-300 text-4xl ${
             isOpen ? "hidden" : ""
-          }`}
+          } menu-button`}
         >
           &#9776;
         </button>
